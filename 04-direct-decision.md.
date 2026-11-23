@@ -1,0 +1,34 @@
+# Task 5 – Direct Answer on the Real Decision
+
+## Objective
+To test whether AI can make loan decisions using net return, profit and the tie-breaking rule when asked to give only the final answer.
+
+## Tool and Date
+- Tool: ChatGPT
+- Date: [Enter the date you ran the prompt]
+
+## Exact Prompt
+ID	Choice (A or B)	Profit of chosen option (₹ crore)
+S01	B	4.75
+S02	B	3.50
+S03	B	6.00
+S04	A	4.20
+S05	A	1.63
+S06	A	10.35
+S07	A	3.38
+S08	B	6.40
+
+## AI Output
+[Paste the actual response from ChatGPT.]
+
+## Verification
+I compared the AI's choices and profits with my independently calculated answer key in Task 3.
+
+## Errors Found
+[Record incorrect choices or profit calculations. Write "No errors found" only if you verified every row.]
+
+## Observation
+The direct prompt gives a quick final answer, but it does not show the calculations. This makes it harder to identify where an incorrect decision or profit figure occurred.
+
+## Revised Prompt
+[Leave this for Task 6, where the same decision will be tested using step-by-step instructions.]
