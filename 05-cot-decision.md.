@@ -1,0 +1,29 @@
+# Task 6 – Chain-of-Thought Decision
+
+## Objective
+To test whether step-by-step prompting improves AI's financial decision-making accuracy.
+
+## Tool and Date
+- Tool: ChatGPT
+- Date: [Enter the date]
+
+## Exact Prompt
+[Paste the complete prompt, including all 8 scenarios.]
+
+## AI Output
+[Paste the actual ChatGPT response with calculations and final summary table.]
+
+## Verification
+I checked the AI's net return, profit and final choice against my independently calculated answer key from Task 3.
+
+## Errors Found
+[Write the calculation or decision errors found. If none, write "No errors found after checking all 8 scenarios."]
+
+## Observation
+The step-by-step prompt makes the calculations visible. This helps identify mistakes in net return, profit and tie-breaking decisions.
+
+## Comparison with Task 5
+[Compare the direct-answer result with the step-by-step result after checking both against your answer key.]
+
+## Learning
+Showing calculations makes AI decisions easier to verify. However, step-by-step output can still contain calculation errors, so independent verification is necessary.
