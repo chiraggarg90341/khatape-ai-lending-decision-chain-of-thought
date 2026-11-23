@@ -20,3 +20,23 @@ Dataset validation
 * All values: Within the specified ranges.
 * Profit calculations: Not included.
 * Option recommendations: Not included.
+## Task 3 – Independent Calculation and Verification
+
+I calculated the net return and profit for all eight scenarios using Excel.
+
+### Findings
+
+- Total scenarios: 8
+- Higher-interest but lower-profit scenarios: 4 (S01, S03, S05, S07).
+- Equal-profit scenarios: 2 (S04, S08).
+- The generated dataset did not meet the requested condition of exactly 3 traps and 1 tie.
+- I retained the original dataset and recorded the discrepancy instead of changing the figures.
+
+### Tie Rule
+
+- S04: Option A selected because its expected default is lower.
+- S08: Option B selected because its expected default is lower.
+
+### Conclusion
+
+The calculations show that a higher interest rate does not always mean higher profit. Expected defaults and cost of funds also affect the lending decision.
